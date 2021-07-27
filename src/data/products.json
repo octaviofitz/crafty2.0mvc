@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "title": "Iphone SE",
+        "description": "Lorem Ipsum dolor amet sit",
+        "price": 100,
+        "image": "img-phone-01.jpg",
+        "category": "nuevo"
+    },
+
+    {
+        "id": 2,
+        "title": "Samsung Galaxy A02",
+        "description": "Lorem Ipsum dolor amet sit",
+        "price": 100,
+        "image": "img-phone-02.jpg",
+        "category": "usado"
+    },
+
+    {
+        "id": 3,
+        "title": "Motorola XPLAY",
+        "description": "Lorem Ipsum dolor amet sit",
+        "price": 100,
+        "image": "img-phone-03.png",
+        "category": "usado"
+    },
+
+    {
+        "id": 4,
+        "title": "Alcatel PLUS",
+        "description": "Lorem Ipsum dolor amet sit",
+        "price": 100,
+        "image": "img-phone-04.png",
+        "category": "nuevo"
+    },
+
+    {
+        "id": 5,
+        "title": "LG K10PLUS",
+        "description": "Lorem Ipsum dolor amet sit",
+        "price": 100,
+        "image": "img-phone-05.jpg",
+        "category": "nuevo"
+    },
+
+    {
+        "id": 6,
+        "title": "NOKIA 3000",
+        "description": "Lorem Ipsum dolor amet sit",
+        "price": 100,
+        "image": "img-phone-06.png",
+        "category": "usado"
+    }
+]

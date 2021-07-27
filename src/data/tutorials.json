@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Cómo romper tu pc",
+        "image": "aside-01.jpg"
+    },
+
+    {
+        "title": "Cómo reparar la batería",
+        "image": "aside-02.jpg"
+    },
+
+    {
+        "title": "Cómo limpiar memoria ram",
+        "image": "aside-03.jpg"
+    },
+
+    {
+        "title": "Cómo desfragmentar disco",
+        "image": "aside-04.jpg"
+    }
+]
